@@ -36,8 +36,10 @@ A Python implementation of the Force Density Method (FDM), introduced by Schek (
 
 
 # To-Dos:
-- Integrating the FDM solver with an auto-differentiation framework such as [JAX](https://github.com/google/jax) or Tensorflow
-_ Integration with subdivision rules and parametric topologies in addition to parametric force densities
+- Integrating the FDM solver with an auto-differentiation framework such as [JAX](https://github.com/google/jax) or Tensorflow.
+
+_ Integrating the FDM solver with rule based subdivision systems and parametric topologies in addition to parametric force densities.
+
 - Integrating the FDM solver into an agent-based framework a Reinforcement Learning (RL) set up, where the agent will explore.
 
 
