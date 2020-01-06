@@ -3,8 +3,7 @@ An implementation of Force Density Method (FDM) in Python
 
 ![](Images/sign.png)
 
-By: 
-**Implemented by :** [Vahid Moosavi](www.vahidmoosavi.me)
+**Implemented by :** [Vahid Moosavi](https://www.vahidmoosavi.me)
 
 
 - Implementation is the same as described in Schek (1974). 
@@ -25,8 +24,10 @@ By:
 	![](Images/3.png)
 	![](Images/4.png) 
 
-	- A case of stadium roof
+	- A case of roof where the fixed nodes are on a circle with fixed radius.
 	![](Images/8x8.png)
 
+	- Clustering of 10K generated geometries based on the distribution of forces, edge lengts and loadpaths.
+	![](Images/SOM.png) 
 
 * For more information, you can contact me via sevamoo@gmail.com or svm@arch.ethz.ch
