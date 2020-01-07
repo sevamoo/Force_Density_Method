@@ -31,6 +31,8 @@ A Python implementation of the Force Density Method (FDM), introduced by Schek (
 	- A case of roof where the fixed nodes are on a circle with fixed radius.
 	![](Images/8x8.png)
 
+	![](Images/16x9_xyonly_True.png)
+
 	- Clustering of 10K generated geometries based on the distribution of forces, edge length and load-paths.
 	![](Images/SOM.png) 
 
